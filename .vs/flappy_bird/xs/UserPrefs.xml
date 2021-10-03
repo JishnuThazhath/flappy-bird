@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{0C2F9F57-0588-B26A-17D1-FF501FA96600}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Level.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bird.cs" Line="28" Column="29" />
+      <File FileName="Assets/Scripts/GameAssets.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Level.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="flappy_bird" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Level.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3cf173de-f8b1-46ae-a49f-a334f46eedc0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
